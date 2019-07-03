@@ -9,9 +9,8 @@
         "email": "julian@silverstripe.com"
     }],
     "require": {
-        "silverstripe/framework": "^4.4",
-        "silverstripe/cms": "^4.4",
-        "symbiote/silverstripe-gridfieldextensions": "^3.2",
+        "silverstripe/cms": "^4.0",
+        "symbiote/silverstripe-gridfieldextensions": "^3.1",
         "silverstripe/taxonomy": "^1.2"
     },
     "suggest": {
