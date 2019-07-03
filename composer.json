@@ -9,9 +9,10 @@
         "email": "julian@silverstripe.com"
     }],
     "require": {
+        "silverstripe/framework": "^4.0",
         "silverstripe/cms": "^4.0",
         "symbiote/silverstripe-gridfieldextensions": "^3.1",
-        "silverstripe/taxonomy": "^1.2"
+        "silverstripe/taxonomy": "^2"
     },
     "suggest": {
         "undefinedoffset/sortablegridfield": "Allow documents to be reordered via drag-and-drop"
